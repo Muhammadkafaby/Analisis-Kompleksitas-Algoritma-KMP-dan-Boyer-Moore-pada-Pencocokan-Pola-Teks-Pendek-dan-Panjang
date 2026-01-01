@@ -75,15 +75,7 @@ start web/index.html
 # Atau double-click file web/index.html
 ```
 
-### 3. Generate Dokumen Word
-
-```bash
-python generate_report.py
-```
-
-Output: `output/Laporan_Tugas_Besar_AKA.docx`
-
-### 4. Verifikasi Algoritma
+### 3. Verifikasi Algoritma
 
 ```bash
 python verify_algorithms.py
